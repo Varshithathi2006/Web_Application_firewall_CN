@@ -16,10 +16,10 @@ Traditional rule-based firewalls often fail to detect evolving patterns. This WA
 
 ## 👨‍💻 Team Members
 
-- **Varshitha Thilak Kumar** - CB.SC.U4AIE23258  
-- **Siri Sanjana S** - CB.SC.U4AIE23249  
-- **Shreya Arun** - CB.SC.U4AIE23253  
-- **Anagha Menon** - CB.SC.U4AIE23212  
+- **Varshitha Thilak Kumar** – varshitha.9a2019@gmail.com
+- **Siri Sanjana S** – sirisanjana.singareddy@gmail.com
+- **Shreya Arun** – shreyaarun005@gmail.com 
+- **Anagha Menon**
 
 ### 🧑‍🏫 Guided By:
 **Mr. Jaisooraj J**  
